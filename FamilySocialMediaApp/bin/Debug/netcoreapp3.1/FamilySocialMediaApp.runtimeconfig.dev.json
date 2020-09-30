@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\loper\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\loper\\.nuget\\packages"
-    ]
-  }
-}
